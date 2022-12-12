@@ -1,5 +1,5 @@
 # CursFirstRepository
-Reprezinta tema de proiect
+Reprezinta tema de proiect.
 Aceasta consta intr-un web automation framework.
 Proiectul reprezinta inregistrarea, logarea, vizualizarea si cumpararea unor anumite articole si completarea datelor de facturare.
 Etapele sunt:
